@@ -1,0 +1,40 @@
+D:\Desktop\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.exe.config
+D:\Desktop\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.exe
+D:\Desktop\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.pdb
+D:\Desktop\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csprojAssemblyReference.cache
+D:\Desktop\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.Form1.resources
+D:\Desktop\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.Properties.Resources.resources
+D:\Desktop\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csproj.GenerateResource.cache
+D:\Desktop\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csproj.CoreCompileInputs.cache
+D:\Desktop\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.exe
+D:\Desktop\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.pdb
+C:\Users\MaciekV2\Desktop\Rok2_Semestr2\SSI\SSI_Projekt\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.exe.config
+C:\Users\MaciekV2\Desktop\Rok2_Semestr2\SSI\SSI_Projekt\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.exe
+C:\Users\MaciekV2\Desktop\Rok2_Semestr2\SSI\SSI_Projekt\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.pdb
+C:\Users\MaciekV2\Desktop\Rok2_Semestr2\SSI\SSI_Projekt\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csprojAssemblyReference.cache
+C:\Users\MaciekV2\Desktop\Rok2_Semestr2\SSI\SSI_Projekt\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.Form1.resources
+C:\Users\MaciekV2\Desktop\Rok2_Semestr2\SSI\SSI_Projekt\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.Properties.Resources.resources
+C:\Users\MaciekV2\Desktop\Rok2_Semestr2\SSI\SSI_Projekt\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csproj.GenerateResource.cache
+C:\Users\MaciekV2\Desktop\Rok2_Semestr2\SSI\SSI_Projekt\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csproj.CoreCompileInputs.cache
+C:\Users\MaciekV2\Desktop\Rok2_Semestr2\SSI\SSI_Projekt\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.exe
+C:\Users\MaciekV2\Desktop\Rok2_Semestr2\SSI\SSI_Projekt\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.pdb
+D:\Desktop\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.exe.config
+D:\Desktop\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.exe
+D:\Desktop\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.pdb
+D:\Desktop\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csprojAssemblyReference.cache
+D:\Desktop\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.Form1.resources
+D:\Desktop\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.Properties.Resources.resources
+D:\Desktop\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csproj.GenerateResource.cache
+D:\Desktop\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csproj.CoreCompileInputs.cache
+D:\Desktop\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.exe
+D:\Desktop\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.pdb
+D:\03_POLSL\II ROK_SEM4\SSI\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.exe.config
+D:\03_POLSL\II ROK_SEM4\SSI\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.exe
+D:\03_POLSL\II ROK_SEM4\SSI\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\bin\Debug\PerfectCar.pdb
+D:\03_POLSL\II ROK_SEM4\SSI\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csprojAssemblyReference.cache
+D:\03_POLSL\II ROK_SEM4\SSI\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.Form1.resources
+D:\03_POLSL\II ROK_SEM4\SSI\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.Properties.Resources.resources
+D:\03_POLSL\II ROK_SEM4\SSI\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csproj.GenerateResource.cache
+D:\03_POLSL\II ROK_SEM4\SSI\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.csproj.CoreCompileInputs.cache
+D:\03_POLSL\II ROK_SEM4\SSI\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.exe
+D:\03_POLSL\II ROK_SEM4\SSI\SSI_Projekt\ZZZZZ\SSI_Projekt\PerfectCar\PerfectCar\obj\Debug\PerfectCar.pdb
